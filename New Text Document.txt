@@ -1,0 +1,127 @@
+
+1) Explain what is DevOps?
+
+It is a newly emerging term in IT field, which is nothing but a practice that emphasizes the collaboration and communication of both software developers
+ and other information-technology (IT) professionals. It focuses on delivering software product faster and lowering the failure rate of releases.
+
+2) Mention what are the key aspects or principle behind DevOps?
+
+The key aspects or principle behind DevOps is
+
+Infrastructure as code
+Continuous deployment
+Automation
+Monitoring
+Security
+3) What are the core operations of DevOps with application development and with infrastructure?
+
+The core operations of DevOps with
+
+Application development
+
+Code building
+Code coverage
+Unit testing
+Packaging
+Deployment
+
+5) Explain how DevOps is helpful to developers?
+
+DevOps can be helpful to developers to fix the bug and implement new features quickly.  
+It also helps for clearer communication between the team members
+
+ 
+7) List out some popular tools for DevOps?
+
+Some of the popular tools for DevOps ar
+Jenkins
+Docker
+Ansible
+Git 
+nogios
+
+8) Mention at what instance have you used the SSH?
+I have used SSH to log into a remote machine and work on the command line.  
+
+
+10)WHAT IS GIT
+Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people.
+ It is primarily used for source code management in software development,[8] but it can be used to keep track of changes in any set
+ of files.
+
+sub version
+Subversion (SVN) is an open source version control system. It helps you keep track of a collection of files and folders. 
+Any time you change, add or delete a file or folder that you manage with Subversion, you commit these changes to your Subversion
+ repository, which creates a new revision in your repository reflecting these changes. You can always go back, look at and get the contents of previous revisions.
+
+Nagios /'n??gi?o?s/, now known as Nagios Core, is a free and open source computer-software application that monitors systems, networks and infrastructure.
+ Nagios offers monitoring and alerting services for servers, switches, applications and services. 
+
+11)Benefits of version control systems
+
+Developing software without using version control is risky, like not having backups.
+ Version control can also enable developers to move faster and it allows software teams to preserve efficiency 
+and agility as the team scalesto include more developers.
+
+
+12)What is version control
+Benefits of version control
+Version control systems are a category of software tools that help a software team manage changes to source code over time. 
+Version control software keeps track of every modification to the code in a special kind of database. 
+
+13)What is a Jenkins job
+                            
+Jenkins is a powerful application that allows continuous integration and continuous delivery of projects,
+ regardless of the platform you are working on.
+ It is a free source that can handle any kind of build or continuous integration. You can integrate Jenkins 
+with a number of testing and deployment technologies. Jenkins to build and test your software projects continuously
+
+14)what is pipe jenkins
+Jenkins Pipeline is a suite of plugins which supports implementing and integrating continuous delivery pipelines into Jenkins.
+ Pipeline provides an extensible set of tools for modeling simple-to-complex delivery pipelines "as code" via the Pipeline DSL.
+
+15)what is maven
+Maven is a build automation tool used primarily for Java projects.the word maven means "accumulator of knowledge".Maven addresses two aspects of building software:
+ first, it describes how software is built, and second, it describes its dependencies. Contrary to preceding tools like Apache Ant, it uses conventions for the build
+ procedure, and only exceptions need to be written down. An XML file describes the software project being built, 
+its dependencies on other external modules and components, the build order, directories, and required plug-ins. It comes with pre-defined targets for performing 
+certain well-defined tasks such as compilation of code and its packaging.
+
+
+16)what is docker
+Docker container is an open source software development platform. Its main benefit is to package applications in “containers,” 
+allowing them to be portable among any system running the Linux operating system (OS).
+
+17)What is the container technology?
+Containerization -- also called container-based virtualization and application containerization -- is an 
+OS-level virtualization method for deploying and running distributed applications without launching an entire
+ VM for each application.
+
+18)What does virtualization do?
+In computing, virtualization means to create a virtual version of a device or resource, such as a server, storage device,
+ network or even an operating system where the framework divides the resource into one or more execution environments.
+
+19)Why virtualization is required?
+Virtualization reduces the number of physical servers, reducing the energy required to power and cool them. Save time. ...
+ It's also much faster to deploy a virtual machine than it is to deploy a new physical server. Reduce desktop management headaches. 
+
+20)Why virtualization is important?
+The most important function of virtualization is the capability of running multiple operating systems and applications on a single
+ computer or server. This means increased productivity achieved by fewer servers.
+
+21)d/f virtual and containor
+Containers use the same host operating system (OS) repeatedly, instead of installing (and paying to license) an OS for each guest VM. 
+This is often referred to as operating system-level virtualization. ... Containerization allows the server to potentially host far more 
+containers than it could virtual machines.
+
+22)What is meant by containerization?
+Containerization is a lightweight alternative to full machine virtualization that involves encapsulating an application in a container with its own operating environment.
+
+23)what is puppet
+In computing, Puppet is an open-source software configuration management tool. It runs on many Unix-like systems as well as on Microsoft Windows, and includes 
+its own declarative language to describe system configuration.either using Puppet's declarative language or a Ruby DSL\
+
+
+24)what is chef
+Chef: "IT automation for speed and awesomeness" Chef is a configuration management tool for dealing with machine setup on physical servers, virtual machines and in the cloud. 
+Many companies use Chef software to control and manage their infrastructure including Facebook, Etsy, Cheezburger, and Indiegogo.
